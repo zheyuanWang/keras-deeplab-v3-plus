@@ -1,4 +1,29 @@
 # Keras implementation of Deeplabv3+  
+
+#wzy's notes
+
+* channel problem, and much code!
+
+[Load the Data with Keras, problem with Number of Channels](https://github.com/bonlime/keras-deeplab-v3-plus/issues/70)
+
+[how to run the project](https://github.com/bonlime/keras-deeplab-v3-plus/issues/10)
+
+[an example of using model.fit to train the model](https://github.com/bonlime/keras-deeplab-v3-plus/issues/36)
+
+[someone provided code but his code can't be trained..](https://github.com/bonlime/keras-deeplab-v3-plus/issues/58)
+
+[version for TF1.13 & Keras2.2.4](https://github.com/bonlime/keras-deeplab-v3-plus/issues/92)
+
+
+
+
+
+
+
+
+
+
+---
 **This repo is not longer maintained. I won't respond to issues but will merge PR**  
 DeepLab is a state-of-art deep learning model for semantic image segmentation.  
 
